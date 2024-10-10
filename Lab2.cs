@@ -1,4 +1,16 @@
-﻿internal class Program
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FirstLabIVT2
+{
+    internal class Lab2
+    {
+    }
+}
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -65,7 +77,8 @@ internal class Program
         Console.WriteLine("Площадь треугольника: " + area);
         Console.WriteLine("Периметр треугольника: " + perimeter);
     }
-}internal class Program
+}
+internal class Program
 {
     private static void Main(string[] args)
     {
